@@ -1,51 +1,51 @@
 # JDBC (stands for - Java DataBase Connectivity)
--Techology used to connect java application with database.
--JDBC is a Java API(means application programming interface (API) for the programming language Java) to connect and perform operations(insert,delete,update,select,etc) with the Database.
--Now question arise that how does JDBC connect with database? 
--Answer is JDBC API uses "JDBC-drivers" to connect with the database.Jar file hota h jisko hum download krke load krte h.
+- Techology used to connect java application with database.
+- JDBC is a Java API(means application programming interface (API) for the programming language Java) to connect and perform operations(insert,delete,update,select,etc) with the Database.
+- Now question arise that how does JDBC connect with database? 
+- Answer is JDBC API uses "JDBC-drivers" to connect with the database.Jar file hota h jisko hum download krke load krte h.
 
 ### steps to connect java with any databases ;
 
-1) import the package.  eg: java.sql.*
+         1) import the package.  eg: java.sql.*
 
-2) a.Load the driver.   eg: com.mysql.jdbc.driver
+         2) a.Load the driver.   eg: com.mysql.jdbc.driver
 
-   b.Register the driver.  eg: Class.forName(com.mysql.jdbc.driver)
-   
-3) Establish the Connection. eg: using DriverManager
+            b.Register the driver.  eg: Class.forName(com.mysql.jdbc.driver)
 
-4) Create the Statement.
+         3) Establish the Connection. eg: using DriverManager
 
-   Statements are of 3 typyes : Normal , Prepared and Callable.
-   
-5) Execute the Query.  eg: by using any statement from step 4
+         4) Create the Statement.
 
-6) Process Result.     eg:ResultSet
+            Statements are of 3 typyes : Normal , Prepared and Callable.
 
-7) close.
+         5) Execute the Query.  eg: by using any statement from step 4
+
+         6) Process Result.     eg:ResultSet
+
+         7) close.
 
 ### Synatx of all above steps :
 
-1) import java.sql.*
+         1) import java.sql.*
 
-2a) main()
-   {
-2b) Class.forName(com.mysql.jdbc.driver)
+         2a) main()
+            {
+         2b) Class.forName(com.mysql.jdbc.driver)
 
-3) Connection con = DriverManager.getConnection("URL","UserName","Password");
+         3) Connection con = DriverManager.getConnection("URL","UserName","Password");
 
-4) Statement st = con.createStatement();
+         4) Statement st = con.createStatement();
 
-5) ResultSet rs = st.executeQuery("select * from student");
+         5) ResultSet rs = st.executeQuery("select * from student");
 
-6) while(rs.next())
-   {
-    System.out.println(rs.getInt(1)+" "+rs.getString(2));
-   }
-   
-7) st.close();
+         6) while(rs.next())
+            {
+             System.out.println(rs.getInt(1)+" "+rs.getString(2));
+            }
 
-   con.close(); 
+         7) st.close();
+
+            con.close(); 
 
 
 # JDBC - School Management System to add/update/delete students.
