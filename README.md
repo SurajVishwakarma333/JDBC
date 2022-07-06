@@ -39,7 +39,7 @@ steps 9: now lets try to add another new students.
 
 ![3](https://user-images.githubusercontent.com/101108540/177503384-2025597d-6197-4eb0-9af4-235cb3575f25.jpg)
 
-steps 10: working ツ
+steps 10: see its working ツ
 
 ![sql8(OUTPUT2)](https://user-images.githubusercontent.com/101108540/177503557-43bd8197-372a-4040-837b-883b883544a6.jpg)
 
@@ -47,7 +47,7 @@ steps 11: To display students detail in Java appliaction only instead of mysql.
 
 ![sql10(displaying all the studing in eclipse)](https://user-images.githubusercontent.com/101108540/177504576-70e21278-08fc-4655-a2d0-aa022325f7a9.jpg)
 
-steps 12: Exit㋡☻
+steps 12: Exit㋡
 
 ![sql9(Exit)](https://user-images.githubusercontent.com/101108540/177504667-dd48cca3-385f-45c1-b6fe-50e83312abca.jpg)
 
