@@ -29,7 +29,7 @@ steps 6: After creating and checking table lets display(describe) the content of
 
 steps 7: Table content is empty because we haven't added student yet. so lets add new student from java application and see that it will store and appear in our database or not.
 
-![1](https://user-images.githubusercontent.com/101108540/177497896-1ca1093b-fe01-4650-b719-e130a05afb8b.jpg)
+![2](https://user-images.githubusercontent.com/101108540/177504321-c04e6166-9983-46b0-ad93-3aa35a175842.jpg)
 
 steps 8: yaaa its working ツ  
 
@@ -42,3 +42,12 @@ steps 9: now lets try to add another new students.
 steps 10: working ツ
 
 ![sql8(OUTPUT2)](https://user-images.githubusercontent.com/101108540/177503557-43bd8197-372a-4040-837b-883b883544a6.jpg)
+
+steps 11: To display students detail in Java appliaction only instead of mysql.
+
+![sql10(displaying all the studing in eclipse)](https://user-images.githubusercontent.com/101108540/177504576-70e21278-08fc-4655-a2d0-aa022325f7a9.jpg)
+
+steps 12: Exit㋡☻
+
+![sql9(Exit)](https://user-images.githubusercontent.com/101108540/177504667-dd48cca3-385f-45c1-b6fe-50e83312abca.jpg)
+
