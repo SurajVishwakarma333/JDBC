@@ -34,3 +34,11 @@ steps 7: Table content is empty because we haven't added student yet. so lets ad
 steps 8: yaaa its working ツ  
 
 ![sql7(OUTPUT)](https://user-images.githubusercontent.com/101108540/177498837-a08a19ee-4f70-45d6-a4e8-c86c7ae1ddd3.jpg)
+
+steps 9: now lets try to add another new students.
+
+![3](https://user-images.githubusercontent.com/101108540/177503384-2025597d-6197-4eb0-9af4-235cb3575f25.jpg)
+
+steps 10: working ツ
+
+![sql8(OUTPUT2)](https://user-images.githubusercontent.com/101108540/177503557-43bd8197-372a-4040-837b-883b883544a6.jpg)
