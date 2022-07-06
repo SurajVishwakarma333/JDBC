@@ -19,4 +19,15 @@ steps 4: lets create new table and named as students.
 
 ![sql4(creating table named as students)](https://user-images.githubusercontent.com/101108540/177479919-692c9589-d29a-4612-9eb8-c12084a6f4e3.jpg)
 
-steps 5: 
+steps 5: To check table is created or not write show tables;
+
+![sql5(to display the content of table we have to use show table)](https://user-images.githubusercontent.com/101108540/177497035-49d7108a-878e-4927-8187-325439d0406e.jpg)
+
+steps 6: After creating and checking table lets display(describe) the content of tables.
+
+![sql6(describing table)](https://user-images.githubusercontent.com/101108540/177497387-2f5cf78f-cd30-4962-890c-295dfcc7a1ea.jpg)
+
+steps 7: Table content is empty because we haven't add student yet . so lets add student from java application and see that it will store and appear in our database.
+
+![1](https://user-images.githubusercontent.com/101108540/177497896-1ca1093b-fe01-4650-b719-e130a05afb8b.jpg)
+
