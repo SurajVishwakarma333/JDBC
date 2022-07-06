@@ -1,6 +1,12 @@
 # JDBC - School Management System to add/update/delete students.
 
-**Creating databse in mysql command line**
+**Java Application used :**
+    
+      Eclipse IDE
+      
+**Database used :**   
+
+      MySql
 
 steps 1: creating new database and named as "student_manage"
 
