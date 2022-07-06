@@ -1,6 +1,6 @@
 # JDBC - School Management System to add/update/delete students.
 
-**Creating databse in mysql command line  **
+**Creating databse in mysql command line**
 
 steps 1: creating new database and named as "student_manage"
 
@@ -9,9 +9,9 @@ steps 1: creating new database and named as "student_manage"
 
 steps 2: To view all databases present in my device.
 
-![sql2(to seeing all database which is present in my device)](https://user-images.githubusercontent.com/101108540/177479492-e9bc1630-5beb-43a2-93f6-5866c0fe8616.jpg)
+![sql2(to seeing all database which is present in my device)](https://user-images.githubusercontent.com/101108540/177496541-17baf3f1-4c85-443e-8fd7-ea17c7a510bb.jpg)
 
-steps 3: use databe_name to perform crud operations or anything we have to do with database first we have to use databse.
+steps 3: To perform crud operations or anything with database .,first we have to use databse.
 
 ![sql3(to perform crud or anything we have to use database)](https://user-images.githubusercontent.com/101108540/177479822-9dd4ac00-8b82-483b-8926-854e16062de2.jpg)
 
