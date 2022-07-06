@@ -27,7 +27,10 @@ steps 6: After creating and checking table lets display(describe) the content of
 
 ![sql6(describing table)](https://user-images.githubusercontent.com/101108540/177497387-2f5cf78f-cd30-4962-890c-295dfcc7a1ea.jpg)
 
-steps 7: Table content is empty because we haven't add student yet . so lets add student from java application and see that it will store and appear in our database.
+steps 7: Table content is empty because we haven't added student yet. so lets add new student from java application and see that it will store and appear in our database or not.
 
 ![1](https://user-images.githubusercontent.com/101108540/177497896-1ca1093b-fe01-4650-b719-e130a05afb8b.jpg)
 
+steps 8: yaaa its working ツ  
+
+![sql7(OUTPUT)](https://user-images.githubusercontent.com/101108540/177498837-a08a19ee-4f70-45d6-a4e8-c86c7ae1ddd3.jpg)
