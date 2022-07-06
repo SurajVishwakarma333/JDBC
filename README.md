@@ -6,9 +6,9 @@
       
 **Database used :**   
 
-      MySql
+       MySql
 
-steps 1: creating new database and named as "student_manage"
+- steps 1: creating new database and named as "student_manage"
 
 ![sql1(creating database)](https://user-images.githubusercontent.com/101108540/177479283-d6958b90-6156-4614-984c-93659dc4eeb2.jpg)
 
