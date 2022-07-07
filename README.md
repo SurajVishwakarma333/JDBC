@@ -22,13 +22,21 @@
 
          eg: using DriverManager
 
-**4) Create the Statement.**
+**4) Create the Statement Interface.**
 
          Statements are of 3 typyes : Normal Statement , Prepared Statement and Callable Statement. 
          
 - ***STATEMENT*** : The Statement interface represents the static SQL statement.
-- ***PREPARED*** : This interface extends the Statement interface. In which SQL statement can be executed multiple times.
+
+                  Statement statement = connection.createStatement();
+- ***PREPARED*** : This interface extends the Statement interface. In which SQL statement can be executed multiple times.This accepts parameterized SQL queries. In this, “?” is used instead of the parameter
+
+                  String query = "INSERT INTO people(name, age)VALUES(?, ?)";
+                  Statement pstmt = con.prepareStatement(query); 
+                  
 - ***CALLABLE*** : The CallableStatement interface provides methods to execute stored procedures.
+
+                  CallableStatement cstmt = con.prepareCall("{call Procedure_name(?, ?}");
 
 
 **5) Execute the Query.**
