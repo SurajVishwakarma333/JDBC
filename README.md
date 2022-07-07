@@ -6,11 +6,11 @@
 
 ### Steps to connect java with any databases ;
 
-1) import the package.  
+**1) import the package.** 
 
          eg: java.sql.*
 
-2) a.Load the driver.   
+**2) a.Load the driver.**   
 
          eg: com.mysql.jdbc.driver
 
@@ -18,23 +18,23 @@
    
          eg: Class.forName(com.mysql.jdbc.driver)
 
-3) Establish the Connection. 
+**3) Establish the Connection.**
 
          eg: using DriverManager
 
-4) Create the Statement.
+**4) Create the Statement.**
 
          Statements are of 3 typyes : Normal , Prepared and Callable.
 
-5) Execute the Query.
+**5) Execute the Query.**
 
          eg: by using any statement from step 4
 
-6) Process Result.     
+**6) Process Result.**     
 
          eg:ResultSet
 
-7) close.
+**7) close.**
 
          st.close();
 
@@ -44,9 +44,9 @@
 
          1) import java.sql.*
 
-         2a) main()
+         2-a) main()
             {
-         2b) Class.forName(com.mysql.jdbc.driver)
+           b) Class.forName(com.mysql.jdbc.driver)
 
          3) Connection con = DriverManager.getConnection("URL","UserName","Password");
 
