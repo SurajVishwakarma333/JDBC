@@ -26,9 +26,9 @@
 
          Statements are of 3 typyes : Normal Statement , Prepared Statement and Callable Statement. 
          
-- ***STATEMENT** : The Statement interface represents the static SQL statement.
-- ***PREPARED** : This interface extends the Statement interface. In which SQL statement can be executed multiple times.
-- ***CALLABLE** : The CallableStatement interface provides methods to execute stored procedures.
+- ***STATEMENT*** : The Statement interface represents the static SQL statement.
+- ***PREPARED*** : This interface extends the Statement interface. In which SQL statement can be executed multiple times.
+- ***CALLABLE*** : The CallableStatement interface provides methods to execute stored procedures.
 
 
 **5) Execute the Query.**
