@@ -24,7 +24,7 @@
 
 **4) Create the Statement.**
 
-         Statements are of 3 typyes : Normal , Prepared and Callable.
+         Statements are of 3 typyes : Normal Statement , Prepared Statement and Callable Statement. 
 
 **5) Execute the Query.**
 
