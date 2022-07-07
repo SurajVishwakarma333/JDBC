@@ -114,7 +114,8 @@
 
 - **steps 7: Table content is empty because we haven't added student yet. so lets add new student from java application and see that it will store and appear in our database or not.**
 
-![2](https://user-images.githubusercontent.com/101108540/177504321-c04e6166-9983-46b0-ad93-3aa35a175842.jpg)
+![update](https://user-images.githubusercontent.com/101108540/177710266-38d7d082-0e0b-466c-b9ca-f77c9d6e1c32.jpg)
+
 
 - **steps 8: yaaa its working ツ**
 
