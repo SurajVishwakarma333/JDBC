@@ -133,7 +133,16 @@
 
 ![sql10(displaying all the studing in eclipse)](https://user-images.githubusercontent.com/101108540/177504576-70e21278-08fc-4655-a2d0-aa022325f7a9.jpg)
 
-- **steps 12: Exit㋡**
+- **steps 12: Lets try to delete student swapnil**
+ 
+ ![1](https://user-images.githubusercontent.com/101108540/177712239-692ee005-a59a-483a-ae87-820e8781dd1c.jpg)
+
+- **steps 13: See its working!**
+
+![2](https://user-images.githubusercontent.com/101108540/177712516-e841c1fe-3b44-459a-93be-baa506fad5f6.jpg)
+
+
+- **steps 14: Exit ㋡**
 
 ![sql9(Exit)](https://user-images.githubusercontent.com/101108540/177504667-dd48cca3-385f-45c1-b6fe-50e83312abca.jpg)
 
