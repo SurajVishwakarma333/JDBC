@@ -4,9 +4,9 @@
 - Now question arise that how does JDBC connect with database? 
 - Answer is JDBC API uses "JDBC-drivers" to connect with the database.Jar file hota h jisko hum download krke load krte h.
 
-### Steps to connect java with any databases ;
+### Steps to connect java with any databases :
 
-![img](https://user-images.githubusercontent.com/101108540/177738697-919dae6f-a019-4fbf-ade4-d799ff820308.jpg)
+![Screenshot 2022-07-07 144806](https://user-images.githubusercontent.com/101108540/177738947-0bf8625d-b5dc-43f9-b528-e15b3d0ab4e7.jpg)
 
 
 **1) import the package.** 
