@@ -6,6 +6,9 @@
 
 ### Steps to connect java with any databases ;
 
+![img](https://user-images.githubusercontent.com/101108540/177738697-919dae6f-a019-4fbf-ade4-d799ff820308.jpg)
+
+
 **1) import the package.** 
 
          eg: java.sql.*
