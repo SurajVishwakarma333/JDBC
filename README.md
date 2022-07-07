@@ -14,7 +14,7 @@
 
          eg: com.mysql.jdbc.driver
 
-       b. Register the driver.
+     b. Register the driver.
    
          eg: Class.forName(com.mysql.jdbc.driver)
 
