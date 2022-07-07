@@ -6,7 +6,7 @@
 
 ### Steps to connect java with any databases :
 
-![Screenshot 2022-07-07 144806](https://user-images.githubusercontent.com/101108540/177738947-0bf8625d-b5dc-43f9-b528-e15b3d0ab4e7.jpg)
+![Screenshot 2022-07-07 144923](https://user-images.githubusercontent.com/101108540/177739248-c729c061-b869-4038-bd6d-36741e31b126.jpg)
 
 
 **1) import the package.** 
