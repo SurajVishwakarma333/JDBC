@@ -24,7 +24,7 @@
 
 **4) Create the Statement Interface.**
 
-         Statements are of 3 typyes : Normal Statement , Prepared Statement and Callable Statement. 
+> Statements are of 3 typyes : Normal Statement , Prepared Statement and Callable Statement. 
          
 - ***STATEMENT*** : The Statement interface represents the static SQL statement.
 
