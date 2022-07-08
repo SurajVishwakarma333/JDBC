@@ -13,7 +13,9 @@
 
          eg: java.sql.*
 
-**2)**• a. Load the driver.   
+**2) Load & Register the driver**
+
+   • a. Load the driver.   
 
          eg: com.mysql.jdbc.driver
 
