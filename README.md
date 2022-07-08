@@ -56,7 +56,7 @@
 
          con.close(); 
 
-### Synatx of all above steps :
+### Syntax of all above steps :
 
          1) import java.sql.*
 
